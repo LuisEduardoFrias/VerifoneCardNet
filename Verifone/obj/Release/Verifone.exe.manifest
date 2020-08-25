@@ -47,15 +47,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Verifone.exe" size="13224">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Verifone.exe" size="19368">
       <assemblyIdentity name="Verifone" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
-        <dsig:DigestValue>ldtpaxfD+GxNXwJYvkbs5X+Ns2s=</dsig:DigestValue>
+        <dsig:DigestValue>iZLrMaw8RPSAitHq2Jedcto1Zco=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
+  <file name="Verifone.exe.config" size="368">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>+KN8fzcZ+wbSI/yFP2Fhqx5E+G0=</dsig:DigestValue>
+    </hash>
+  </file>
 </asmv1:assembly>

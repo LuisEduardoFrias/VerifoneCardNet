@@ -6,7 +6,7 @@
     using System.Net;
     using System.IO;
 
-    public class Coneccion
+    public class ConectionCardNet
     {
 
         #region Propiedades
@@ -40,7 +40,7 @@
         #endregion
 
 
-        public Coneccion(string ipLocal, int puertoLocal, string ipRemota, int puertoRemoto, string PathRepuesta,int Contador,string nombreArchivo)
+        public ConectionCardNet(string ipLocal, int puertoLocal, string ipRemota, int puertoRemoto, string PathRepuesta,int Contador,string nombreArchivo)
         {
             try
             {

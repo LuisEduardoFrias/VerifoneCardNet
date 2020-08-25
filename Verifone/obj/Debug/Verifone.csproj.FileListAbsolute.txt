@@ -4,3 +4,8 @@ C:\ProyectosVS\Verifone\Verifone\obj\Debug\Verifone.csproj.CoreCompileInputs.cac
 C:\ProyectosVS\Verifone\Verifone\obj\Debug\Verifone.exe
 C:\ProyectosVS\Verifone\Verifone\obj\Debug\Verifone.pdb
 C:\ProyectosVS\Verifone\Verifone\obj\Debug\Verifone.csprojAssemblyReference.cache
+C:\ProyectosVS\Verifone\Verifone\bin\Debug\Verifone.exe.config
+C:\ProyectosVS\Verifone\Verifone\bin\Debug\Verifone.exe.manifest
+C:\ProyectosVS\Verifone\Verifone\bin\Debug\Verifone.application
+C:\ProyectosVS\Verifone\Verifone\obj\Debug\Verifone.exe.manifest
+C:\ProyectosVS\Verifone\Verifone\obj\Debug\Verifone.application

@@ -1,10 +1,10 @@
 C:\ProyectosVS\Verifone\Verifone\bin\Release\Verifone.pdb
 C:\ProyectosVS\Verifone\Verifone\obj\Release\Verifone.csproj.CoreCompileInputs.cache
 C:\ProyectosVS\Verifone\Verifone\obj\Release\Verifone.pdb
-C:\ProyectosVS\Verifone\Verifone\obj\Release\Verifone.csprojAssemblyReference.cache
 C:\ProyectosVS\Verifone\Verifone\bin\Release\Verifone.exe
 C:\ProyectosVS\Verifone\Verifone\obj\Release\Verifone.exe
 C:\ProyectosVS\Verifone\Verifone\bin\Release\Verifone.exe.manifest
 C:\ProyectosVS\Verifone\Verifone\bin\Release\Verifone.application
 C:\ProyectosVS\Verifone\Verifone\obj\Release\Verifone.exe.manifest
 C:\ProyectosVS\Verifone\Verifone\obj\Release\Verifone.application
+C:\ProyectosVS\Verifone\Verifone\bin\Release\Verifone.exe.config
